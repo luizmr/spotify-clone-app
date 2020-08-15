@@ -1,0 +1,23 @@
+.login {
+	background-color: #000;
+	display: grid;
+	place-items: center;
+	height: 100vh;
+}
+
+.login > img {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.login > a {
+	text-decoration: none;
+	padding: 20px;
+	border-radius: 99px;
+	background-color: #1db954;
+	color: white;
+	font-weight: 700;
+}
+.login > a:hover {
+	cursor: pointer;
+}
